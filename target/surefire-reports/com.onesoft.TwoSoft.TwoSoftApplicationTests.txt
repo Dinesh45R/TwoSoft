@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.onesoft.TwoSoft.TwoSoftApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.01 s -- in com.onesoft.TwoSoft.TwoSoftApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 16.58 s -- in com.onesoft.TwoSoft.TwoSoftApplicationTests
